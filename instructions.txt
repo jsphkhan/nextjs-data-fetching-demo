@@ -1,0 +1,17 @@
+This is a NextJS project
+
+I am trying SSR, SSG, Dynamic SSG (getStaticPaths), ISR 
+Data fetching and rendering methods
+
+I am also trying new concepts(Custom layouts, app directory) 
+and new npm packages with this project
+
+NPM packages trying:
+1. next-seo
+2. next-i18next: https://github.com/i18next/next-i18next
+3. next-language-detector
+
+Next to try:
+1. i18n support for SSG pages: https://github.com/i18next/next-i18next/tree/master/examples/ssg
+2. i18n support for true SSG pages (next export): https://dev.to/martinkr/next-js-i18n-with-static-sites-2644
+3. NextJS Language detector: https://locize.com/blog/next-i18n-static/
